@@ -22,14 +22,14 @@ body {
   flex-direction: column;
   justify-content: space-around;
   background-color: #f2796e;
-  width: 55%;
-  min-height: 100vh;
+  width: 280%;
+  height: 203px;
   padding: 10px 20px;
 }
 
 .image {
   background-image: url("https://www.freepnglogos.com/uploads/sport-png/sport-sports-png-transparent-images-30.png");
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-size: contain;
   background-position: center;
   /* border: 2px solid black; */
@@ -50,7 +50,7 @@ form {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  width: 45%;
+  width: 90%;
   /* max-width: 400px; */
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
   padding: 50px;
